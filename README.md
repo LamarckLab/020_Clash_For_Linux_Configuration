@@ -1,4 +1,4 @@
-<h2 align="center">🛰️ Clash for Linux 部署 & 配置</h1>
+<h1 align="center">💻 Clash for Linux 部署 & 配置</h1>
 
 <p align="center">
   <i> —— 2026.03.25</i>
@@ -18,7 +18,7 @@
 
 ---
 
-## 🔧 Step 1：一键安装
+## Step 1：一键安装
 
 在终端中执行以下命令即可完成安装：
 
@@ -28,7 +28,7 @@ git clone --branch master --depth 1 https://gh-proxy.org/https://github.com/nelv
   && bash install.sh
 ```
 
-## 🔗 Step 2：常用命令一览
+## Step 2：常用命令一览
 
 ```bash
 Commands:
@@ -51,7 +51,7 @@ View Help Info:
     clashctl -help
 ```
 
-## 🛠 Step 3：关闭开机自动运行 (可选)
+## Step 3：关闭开机自动运行 (可选)
 
 注释掉.bashrc中的 watch_proxy
 
@@ -59,7 +59,7 @@ View Help Info:
 
 ---
 
-## ⚠️ 特别声明
+## 特别声明
 
 本项目仅用于技术学习与研究，主要涉及 Shell 编程及系统配置方法，不得用于任何违反法律法规的用途。使用者应自行确保其行为符合所在地区的相关规定，并自行承担由此产生的全部责任。项目维护者不对因使用或误用本项目所造成的任何后果承担责任。
 
