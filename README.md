@@ -1,8 +1,6 @@
 <h1 align="center">💻 Clash for Linux 部署 & 配置</h1>
 
-<p align="center">
-  <i> —— 2026.03.25</i>
-</p>
+<p align="center"><em>—— 2026.03.25</em></p>
 
 
 
